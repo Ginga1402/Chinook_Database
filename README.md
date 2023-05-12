@@ -17,6 +17,9 @@
 
 ● Over 15,000 rows of data
 
+
+![ezgif com-rotate (1)](https://github.com/Ginga1402/Chinook_Database/assets/130181481/d93fc1a3-8d2e-457c-8bc7-aa81e5f42bb7)
+
 ## Table Information:
 
 * The employee table contains information about employees, such as their names, titles, and contact information. Each employee has a unique EmployeeId.
