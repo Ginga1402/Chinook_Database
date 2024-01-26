@@ -77,3 +77,7 @@ Note: calculate the total amount spent and the number of invoices for each custo
 12. Find the names and email addresses of customers who have spent more than the average amount on invoices. (59 rows)
 
 13. List the names of all the artists that have tracks in the 'Rock' genre. (51 rows)
+
+
+
+### The SQL queries for the questions asked above are provided in the Chinook.sql File.
